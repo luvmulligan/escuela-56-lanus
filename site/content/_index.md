@@ -21,7 +21,7 @@ products:
     text: Torneos de educación física
   - image: /img/62071144_139774663776275_3607163480802590720_o.jpg
     text: Clases de natación
-  - image: /img/77022478_165904604496614_7014438028303138816_n.jpg
+  - image: /img/64985193_142137056873369_7757132457551331328_o.jpg
     text: Actividades integradoras
 values:
   heading: Orientación en Educación Física
