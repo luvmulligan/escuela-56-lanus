@@ -1,7 +1,7 @@
 ---
 title: Escuela Secundaria N°56
 subtitle: Polo Deportivo de Lanús
-image: /img/home-jumbotron.jpg
+image: /img/61921996_138940057193069_6433568238667300864_o.jpg
 blurb:
   heading: Sobre la escuela
   text: >-
@@ -16,7 +16,13 @@ intro:
   text: >-
     La escuela está abierta a adolescentes de 11 a 18 años que hayan terminado
     6to año de la escuela primaria.
-products: []
+products:
+  - image: /img/58818367_133403837746691_2771965626481115136_o.jpg
+    text: Torneos de educación física
+  - image: /img/62071144_139774663776275_3607163480802590720_o.jpg
+    text: Clases de natación
+  - image: /img/77022478_165904604496614_7014438028303138816_n.jpg
+    text: Actividades integradoras
 values:
   heading: Orientación en Educación Física
   text: >-
