@@ -31,9 +31,4 @@ main:
     image: /img/65224246_141621240258284_1016738777529319424_o.jpg
 testimonials: []
 full_image: /img/64882638_142136776873397_4326374356021149696_o.jpg
-pricing:
-  heading: ' '
-  description: ' '
-  plans: []
 ---
-
