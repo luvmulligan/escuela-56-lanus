@@ -35,15 +35,15 @@ pricing:
   heading: Horarios
   description: 'Dos Turnos:'
   plans:
-    - description: '-'
+    - description: ' 7:30 a 12:30'
       items:
-        - '-'
+        - ''
       plan: 'Turno mañana:'
-      price: '7:30 a 12:30'
-    - description: '-'
+      price: ' '
+    - description: '10:00 a 17:30'
       items:
-        - '-'
+        - ''
       plan: Turno Tarde
-      price: '10:00 a 17:30'
+      price: ' '
 ---
 
