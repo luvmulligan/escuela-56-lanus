@@ -15,6 +15,11 @@ contact_entries:
 
       En Tren
       Estación Villa Diamante, Belgrano Sur-Alsina.
+  - heading: Horarios
+    text: |-
+      Turno mañana: 7:30 a 12:30
+
+      Turno Tarde: 10:00 a 17:30
 ---
 Envianos tu consulta por mail: 
 
