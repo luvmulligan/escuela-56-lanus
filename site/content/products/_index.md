@@ -32,8 +32,18 @@ main:
 testimonials: []
 full_image: /img/53518772_123775495376192_1361199213412614144_n.jpg
 pricing:
-  heading: Ubicación
-  description: 'Se encuentra emplazada en Osorio 3026, espacio del Polo Educativo.'
-  plans: []
+  heading: Horarios
+  description: 'Dos Turnos:'
+  plans:
+    - description: '-'
+      items:
+        - '-'
+      plan: 'Turno mañana:'
+      price: '7:30 a 12:30'
+    - description: '-'
+      items:
+        - '-'
+      plan: Turno Tarde
+      price: '10:00 a 17:30'
 ---
 
