@@ -1,19 +1,27 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contacto
+logo: /img/chiques_jugando.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: 'Dirección: '
+    text: |-
+      Cnel. Osorio 3026 B1824IJT
+      Lanús Oeste.
+      Buenos Aires
+      Argentina
+  - heading: Cómo llegar
+    text: |-
+      En Colectivo
+      Líneas 520 (todas los ramales), 188, 421, 31, 9 expreso, 28
+
+      En Tren
+      Estación Villa Diamante, Belgrano Sur-Alsina.
 ---
+Envianos tu consulta por mail: 
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+**secundaria56lanus@gmail.com**
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+
+También buscanos por Facebook haciendo [click acá](https://www.facebook.com/secundarialvi.lanus.7?__tn__=%2Cd-%5D-h-R&eid=ARCvnvfm9vuJLSzg6ARzCECUWxR0J6dt9tS6TF_S-ccuqh4qbBQXjRk_s72kUcSGiyqfYAxHwOap-XUY).
+
+![Ubicación](/img/52880630_121421388944936_98514562516516864_n.jpg "Ubicación")
