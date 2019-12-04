@@ -18,11 +18,11 @@ intro:
     6to año de la escuela primaria.
 products:
   - image: /img/58818367_133403837746691_2771965626481115136_o.jpg
-    text: Torneos de educación física
+    text: ' '
   - image: /img/62071144_139774663776275_3607163480802590720_o.jpg
-    text: Clases de natación
+    text: ' '
   - image: /img/64985193_142137056873369_7757132457551331328_o.jpg
-    text: Actividades integradoras
+    text: ' '
 values:
   heading: Orientación en Educación Física
   text: >-
