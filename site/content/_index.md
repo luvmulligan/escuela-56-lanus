@@ -30,8 +30,7 @@ values:
     orientación en Educación Fisica y una de las pocas en mantener la jornada
     extendida en el ciclo básico.
 
-    La Jornada extendida implica que los alumnos tienen, además de las áreas
-    curriculares, tres áreas con uno o dos estímulos extra. Estas áreas son:
-    Inglés, Educación Artística y Educación Física.
+    Los alumnos tienen, además de las áreas curriculares, tres áreas con uno o
+    dos estímulos extra: Inglés, Educación Artística y Educación Física.
 ---
 
